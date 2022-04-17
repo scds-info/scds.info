@@ -3,21 +3,21 @@
     <title>scds.info | Super Canal Dehiscence Syndrome</title>
     <link href="https://scds.info/feed.xml" rel="self" />
     <link href="https://scds.info" />
-    <updated>2022-04-17T12:22:35-07:00</updated>
+    <updated>2022-04-17T14:35:39-07:00</updated>
     <author>
         <name>Sean</name>
     </author>
     <id>https://scds.info</id>
 
     <entry>
-        <title>Surgical Repair</title>
+        <title>Surgery</title>
         <author>
             <name>Sean</name>
         </author>
         <link href="https://scds.info/surgery/"/>
         <id>https://scds.info/surgery/</id>
 
-        <updated>2022-04-17T11:53:58-07:00</updated>
+        <updated>2022-04-17T14:31:12-07:00</updated>
             <summary>
                 <![CDATA[
                     Surgical Repair The bone surrounding the superior canal is one of the few bones in the body that does not repair itself. As such, the&hellip;
@@ -80,22 +80,22 @@
         </content>
     </entry>
     <entry>
-        <title>Surgical Specialists</title>
+        <title>Surgeons</title>
         <author>
             <name>Sean</name>
         </author>
         <link href="https://scds.info/surgery-specialists/"/>
         <id>https://scds.info/surgery-specialists/</id>
 
-        <updated>2022-04-17T11:24:26-07:00</updated>
+        <updated>2022-04-17T14:35:39-07:00</updated>
             <summary>
                 <![CDATA[
-                    This is a list of known SCDS surgical specialists (50+ Surgeries). Note: this is an incomplete list. If you know of a surgeon with 50+&hellip;
+                    This is a list of known SCDS specialist surgeons (50+ surgeries). Note: this is an incomplete list. If you know of a surgeon with 50+&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is a list of known SCDS surgical specialists (50+ Surgeries).</p>
+                <p>This is a list of known SCDS specialist surgeons (50+ surgeries).</p>
 <p class="msg msg--info">Note: this is an incomplete list. If you know of a surgeon with 50+ SCDS surgeries, please <a href="https://scds.info/about-contact/">contact me</a> with their details. <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">For further recommendations on surgeons in your area, or to read patient experience stories, join one of the </span><a href="https://scds.info/support-groups/" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">online support groups</a><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">.</span></p>
 <h2>United States of America</h2>
 <p><strong>Dr. John Carey</strong><br><i>Baltimore, Maryland</i><br><a href="https://www.hopkinsmedicine.org/profiles/details/john-carey" target="_blank" rel="noopener">Johns Hopkins University</a><br><br><strong>Dr. Quinton Gopen</strong><br><i>Los Angeles, California</i><br><a href="https://www.uclahealth.org/quinton-gopen" target="_blank" rel="noopener">UCLA</a></p>
