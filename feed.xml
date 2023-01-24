@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>scds.info | Super Canal Dehiscence Syndrome</title>
     <link href="https://scds.info/feed.xml" rel="self" />
     <link href="https://scds.info" />
-    <updated>2022-11-29T21:00:02-08:00</updated>
+    <updated>2023-01-18T11:29:37-08:00</updated>
     <author>
         <name>Sean</name>
     </author>
@@ -66,10 +66,10 @@
 <p>In many cases, surgeons will use both methods to ensure the best long-term results.</p>
 <h2>Repair Images</h2>
 <p><br>Plugging of the superior canal:</p>
-<figure class="post__image"><img loading="lazy"  src="https://scds.info/media/posts/18/plugging-png-2.png" sizes="(max-width: 768px) 100vw, 768px" srcset="https://scds.info/media/posts/18/responsive/plugging-png-2-xs.png 300w ,https://scds.info/media/posts/18/responsive/plugging-png-2-sm.png 480w ,https://scds.info/media/posts/18/responsive/plugging-png-2-md.png 768w"  alt="Superior canal dehiscence plugging" width="1232" height="506"><figcaption>Image Artist: <a href="https://www.chrisgralapp.com/" target="_blank" rel="noopener noreferrer">Christine Gralapp</a></figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://scds.info/media/posts/18/plugging-png-2.png" alt="Superior canal dehiscence plugging" width="1232" height="506" sizes="(max-width: 768px) 100vw, 768px" srcset="https://scds.info/media/posts/18/responsive/plugging-png-2-xs.png 300w ,https://scds.info/media/posts/18/responsive/plugging-png-2-sm.png 480w ,https://scds.info/media/posts/18/responsive/plugging-png-2-md.png 768w"><figcaption>Image Artist: <a href="https://www.chrisgralapp.com/" target="_blank" rel="noopener noreferrer">Christine Gralapp</a></figcaption></figure>
 <p> </p>
 <p>Resurfacing plus plugging of the superior canal:</p>
-<figure class="post__image"><img loading="lazy"  src="https://scds.info/media/posts/18/resurfacing-2.jpg" sizes="(max-width: 768px) 100vw, 768px" srcset="https://scds.info/media/posts/18/responsive/resurfacing-2-xs.jpg 300w ,https://scds.info/media/posts/18/responsive/resurfacing-2-sm.jpg 480w ,https://scds.info/media/posts/18/responsive/resurfacing-2-md.jpg 768w"  alt="Superior canal dehiscence resurfacing plus plugging" width="911" height="471"><figcaption>Image Artist: <a href="https://www.chrisgralapp.com/" target="_blank" rel="noopener noreferrer">Christine Gralapp</a></figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://scds.info/media/posts/18/resurfacing-2.jpg" alt="Superior canal dehiscence resurfacing plus plugging" width="911" height="471" sizes="(max-width: 768px) 100vw, 768px" srcset="https://scds.info/media/posts/18/responsive/resurfacing-2-xs.jpg 300w ,https://scds.info/media/posts/18/responsive/resurfacing-2-sm.jpg 480w ,https://scds.info/media/posts/18/responsive/resurfacing-2-md.jpg 768w"><figcaption>Image Artist: <a href="https://www.chrisgralapp.com/" target="_blank" rel="noopener noreferrer">Christine Gralapp</a></figcaption></figure>
 <p> </p>
 <p><a href="https://scds.info/surgery-specialists/" class="btn">Next: Surgical Specialists</a></p>
             ]]>
@@ -83,7 +83,7 @@
         <link href="https://scds.info/surgery-specialists/"/>
         <id>https://scds.info/surgery-specialists/</id>
 
-        <updated>2022-08-04T19:04:13-07:00</updated>
+        <updated>2023-01-18T11:29:37-08:00</updated>
             <summary>
                 <![CDATA[
                     This is a list of known SCDS specialist surgeons (50+ surgeries). Note: this is an incomplete list. If you know of a surgeon with 50+&hellip;
@@ -98,7 +98,13 @@
 <p><strong>Dr. Daniel Lee</strong><br><i>Boston, Massachusetts</i><br><a href="https://doctors.masseyeandear.org/details/125/daniel-lee-neurotology-otolaryngology-boston" target="_blank" rel="noopener">Massachusetts Eye and Ear</a></p>
 <h2>Canada</h2>
 <p>[<em>Note: Canada has reciprocal healthcare between provinces, which means you can travel to another province for surgery and have it covered by your provincial health plan.</em>] </p>
-<p><strong>Dr. Issam Saliba</strong><br><i>Montreal, Quebec<br></i><a href="https://www.pcvmontreal.com/en/" target="_blank" rel="noopener">Polyclinique Centre-Ville</a><br><br><strong>Dr. John Rutka</strong><br><em>Toronto, Ontario<br></em><a href="https://www.hearingandbalancecentre.ca/contact-us" target="_blank" rel="noopener noreferrer">Toronto General Hospital</a><em><br></em><br><strong>Dr. Lorne Parnes<br></strong><em>London, Ontario<br></em><a href="https://www.southwesthealthline.ca/displayservice.aspx?id=168812" target="_blank" rel="noopener noreferrer">University Hospital</a><strong><br></strong><br><strong>Dr. Brian Westerberg / Dr. Jane Lea</strong><br>Vancouver, British Columbia<br><a href="https://www.providencehealthcare.org/ear-nose-throat-otolaryngology-head-and-neck-surgery" target="_blank" rel="noopener noreferrer">St. Paul's Hospital</a><br><br><strong>Dr. Nael Shoman<br></strong><em>Halifax, Nova Scotia<br></em><a href="https://medicine.dal.ca/departments/department-sites/surgery/divisions/otolaryngology/our-people/faculty/nael-shoman.html" target="_blank" rel="noopener noreferrer">Dalhousie University</a></p>
+<p><strong>Dr. Issam Saliba</strong><br><i>Montreal, Quebec<br></i><a href="https://www.pcvmontreal.com/en/" target="_blank" rel="noopener">Polyclinique Centre-Ville</a><br><br><strong>Dr. John Rutka</strong><br><em>Toronto, Ontario<br></em><a href="https://www.hearingandbalancecentre.ca/contact-us" target="_blank" rel="noopener noreferrer">Toronto General Hospital</a><em><br></em></p>
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s">
+<div dir="auto"><strong><br>Dr. Vincent Lin</strong></div>
+<div dir="auto"><em>Toronto, Ontario</em><br><a href="https://otolaryngology.utoronto.ca/faculty/vincent-lin" target="_blank" rel="noopener noreferrer">Sunnybrook Health Sciences Centre</a></div>
+</div>
+<p><strong>Dr. Lorne Parnes<br></strong><em>London, Ontario<br></em><a href="https://www.southwesthealthline.ca/displayservice.aspx?id=168812" target="_blank" rel="noopener noreferrer">London Health Sciences Centre</a><br><br><strong>Dr. Brian Westerberg / Dr. Jane Lea</strong><br>Vancouver, British Columbia<br><a href="https://www.providencehealthcare.org/ear-nose-throat-otolaryngology-head-and-neck-surgery" target="_blank" rel="noopener noreferrer">St. Paul's Hospital</a><br><br><strong>Dr. Nael Shoman<br></strong><em>Halifax, Nova Scotia<br></em><a href="https://medicine.dal.ca/departments/department-sites/surgery/divisions/otolaryngology/our-people/faculty/nael-shoman.html" target="_blank" rel="noopener noreferrer">Dalhousie University</a></p>
+<div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s"> </div>
 <h2>Europe</h2>
 <p><strong>Dr. Shakeel Saeed</strong><br><i>London, England<br></i><a href="https://www.uclh.nhs.uk/our-services/find-consultant/professor-shakeel-saeed" target="_blank" rel="noopener">NHS Link</a><br><br></p>
 <p><a href="https://scds.info/support-groups/" class="btn">Next: Support Groups</a></p>
@@ -296,7 +302,7 @@
         <link href="https://scds.info/diganosis/"/>
         <id>https://scds.info/diganosis/</id>
 
-        <updated>2022-11-29T21:00:02-08:00</updated>
+        <updated>2022-11-29T20:56:12-08:00</updated>
             <summary>
                 <![CDATA[
                     Many of the symptoms caused by SCDS can be similar to those of other syndromes. As such, it is important to get a proper diagnosis&hellip;
@@ -401,7 +407,7 @@
 <p class="msg msg--highlight  msg--info">Please note<em>:</em> this is a volunteer-ran website, and should be considered a basic introduction rather than a comprehensive overview of SCDS. For an in-depth understanding of the complications and options regarding this syndrome, speak to <a href="https://scds.info/surgery-specialists/">a SCDS specialist</a> or visit one of the <a href="https://scds.info/support-groups/">online support groups</a>.</p>
 <h3>How the Ear works</h3>
 <p>Your ear has three parts: the outer, middle, and inner ear. Sounds waves travel from the outer ear through to the eardrum in the middle ear, and then finally into the inner ear.<br><br>The inner ear consists of canals (which controls your balance system) and the cochlea (which allows you to hear). </p>
-<figure class="post__image" ><img loading="lazy" src="https://scds.info/media/posts/1/ear1-2.png" sizes="(max-width: 768px) 100vw, 768px" srcset="https://scds.info/media/posts/1/responsive/ear1-2-xs.png 300w ,https://scds.info/media/posts/1/responsive/ear1-2-sm.png 480w ,https://scds.info/media/posts/1/responsive/ear1-2-md.png 768w"  alt="Inner Ear Diagram" width="1700" height="1097">
+<figure class="post__image" ><img loading="lazy" src="https://scds.info/media/posts/1/ear1-2.png" alt="Inner Ear Diagram" width="1700" height="1097" sizes="(max-width: 768px) 100vw, 768px" srcset="https://scds.info/media/posts/1/responsive/ear1-2-xs.png 300w ,https://scds.info/media/posts/1/responsive/ear1-2-sm.png 480w ,https://scds.info/media/posts/1/responsive/ear1-2-md.png 768w">
 <figcaption >Image Artist: <a href="https://www.earspecialistperth.com.au/" target="_blank" rel="noopener noreferrer">Prof. Marcus Atlas</a></figcaption>
 </figure>
 <p>The <strong>semicircular canals</strong> within the inner ear are three fluid-filled tubes, which are encased in a bone wall.</p>
@@ -410,7 +416,7 @@
 <h3>What is a Dehiscence?</h3>
 <p>A dehiscence (pronounced <em>de-hi-sense) </em>is a medical term that means "rupture" or "opening".</p>
 <p>A dehiscence of the superior canal is when an opening or thinning of the bone wall that surrounds the top canal occurs:</p>
-<figure class="post__image" ><img loading="lazy" src="https://scds.info/media/posts/1/ear2-md.png" sizes="(max-width: 768px) 100vw, 768px" srcset="https://scds.info/media/posts/1/responsive/ear2-md-xs.png 300w ,https://scds.info/media/posts/1/responsive/ear2-md-sm.png 480w ,https://scds.info/media/posts/1/responsive/ear2-md-md.png 768w"  alt="" width="761" height="679">
+<figure class="post__image" ><img loading="lazy" src="https://scds.info/media/posts/1/ear2-md.png" alt="" width="761" height="679" sizes="(max-width: 768px) 100vw, 768px" srcset="https://scds.info/media/posts/1/responsive/ear2-md-xs.png 300w ,https://scds.info/media/posts/1/responsive/ear2-md-sm.png 480w ,https://scds.info/media/posts/1/responsive/ear2-md-md.png 768w">
 <figcaption >Image Artist: <a href="https://www.earspecialistperth.com.au/" target="_blank" rel="noopener noreferrer">Prof. Marcus Atlas</a></figcaption>
 </figure>
 <h3>What causes SCDS?</h3>
